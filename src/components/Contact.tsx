@@ -31,7 +31,7 @@ export default function Contact() {
             saadiqbal7007@gmail.com <span aria-hidden="true">↗</span>
           </a>
           <a
-            href="https://linkedin.com/in/muhammadsaad-iqbal"
+            href="https://www.linkedin.com/in/muhammad-saad-iqbal-b33222312/"
             target="_blank"
             rel="noopener noreferrer"
             className="font-mono text-sm underline decoration-[#10120f]/30 underline-offset-4 hover:decoration-[#ff795f] focus-visible:ring-[#10120f]"
