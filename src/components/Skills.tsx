@@ -33,7 +33,7 @@ export default function Skills() {
             A practical mix of tools for building, testing, and shipping useful software.
           </p>
         </motion.div>
-        <div className="grid gap-x-7 gap-y-10 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5">
+        <div className="grid gap-x-7 gap-y-10 md:grid-cols-2 lg:grid-cols-3">
           {skillCategories.map((cat, i) => (
             <motion.div
               key={cat.title}
