@@ -9,6 +9,7 @@ import Education from "@/components/Education";
 import Contact from "@/components/Contact";
 import TypewriterLine from "@/components/TypewriterLine";
 import ScrollType from "@/components/ScrollType";
+import Experience from "@/components/Experience";
 
 // QUALITY GATE: Lazy load 3D to prevent blocking initial paint.
 // The placeholder div ensures Zero Cumulative Layout Shift (CLS).
@@ -109,6 +110,7 @@ export default function Home() {
       </div>
 
       <Skills />
+      <Experience />
       <ExperienceProjects />
       <Education />
       <Contact />

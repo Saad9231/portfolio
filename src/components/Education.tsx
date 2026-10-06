@@ -13,7 +13,7 @@ export default function Education() {
           transition={{ duration: 0.6 }}
           className="mb-14"
         >
-          <p className="section-kicker mb-4">03 / Learning &amp; credentials</p>
+          <p className="section-kicker mb-4">04 / Learning &amp; credentials</p>
           <h2 className="section-title text-white">
             <ScrollType text="Education " />
             <ScrollType text="& more" className="text-[#a5f3e8]" />

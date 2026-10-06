@@ -6,7 +6,9 @@ A personal portfolio for Muhammad Saad Iqbal, featuring selected Android, AI aut
 
 - Responsive portfolio with a 3D hero scene and animated typewriter text.
 - Scroll-triggered heading and project-detail animations.
+- Dedicated Samarsol experience section covering work across the Perkss product suite.
 - Filterable project cards for Android, AI & Automation, and Web work.
+- SQA coverage across unit, UAT, API, manual, web, and app testing, with bug tracking and documentation tools.
 - Continuously scrolling skills ticker, including `n8n` and OpenAI-related work.
 - Contact links for email, LinkedIn, GitHub, and phone.
 
@@ -44,9 +46,19 @@ npm run dev -- --port 3001
 
 ## Selected Projects
 
-- **Android:** Perkss Business App, AgriSmart Mobile App, Attendance Management System, and Mini Banking App.
-- **AI & Automation:** NovaMind AI and n8n chatbot workflows for outreach, social channels, and RAG use cases.
+- **Android:** Perkss Business App, Perkss Kiosk layout variations, Perkss Customer App Flavors, AgriSmart Mobile App, Attendance Management System, and Mini Banking App.
+- **AI & Automation:** Single AI Agent App, NovaMind AI, and n8n chatbot workflows for outreach, social channels, and RAG use cases.
 - **Web:** Edu AI, AgriSmart Web Portal, and POS System Dashboard.
+
+## Professional Experience
+
+**Samarsol · Perkss Products**
+
+Work across the Perkss Business App, Kiosk layouts and variations, and Customer App Flavors. Highlights include currency configuration, external sales tracking, ANR investigation, bug fixes, new feature requirements, a live Play Store app, and creating its listing assets to meet Play Store requirements.
+
+Stack: Java, XML, SQLite, PostgreSQL, and Firebase.
+
+SQA methods and tools shown in the portfolio include unit testing, UAT, Postman API testing, manual testing, web-based and app-based testing, Jira, Slack, Trello, bug tracking, and test documentation updates.
 
 The project cards include the supplied descriptions, highlights, and technology details. No external project-demo links are configured yet.
 
@@ -61,6 +73,7 @@ src/
   components/
     Contact.tsx
     Education.tsx
+    Experience.tsx
     ExperienceProjects.tsx
     Hero3D.tsx
     Navbar.tsx

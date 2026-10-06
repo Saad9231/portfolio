@@ -7,6 +7,7 @@ export const skillCategories = [
   { title: "Mobile Dev", items: ["Android Studio", "Android SDK", "XML Layouts", "SQLite", "RecyclerView"] },
   { title: "Web & Tools", items: ["Next.js", "ASP.NET Core", "EF Core", "Git", "GitHub", "VS Code"] },
   { title: "AI & Automation", items: ["n8n", "AI Tools"] },
+  { title: "SQA & Testing", items: ["Unit Testing", "UAT", "API Testing", "Postman", "Manual Testing", "Web Testing", "App Testing", "Jira", "Slack", "Trello", "Bug Tracking", "Test Documentation"] },
   { title: "Concepts", items: ["OOP", "Software Quality Assurance", "REST APIs", "DevOps Fundamentals", "SEO"] },
 ];
 

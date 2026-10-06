@@ -4,9 +4,10 @@ import { motion } from "framer-motion";
 
 const navLinks = [
   { href: "#home", label: "Home" },
+  { href: "#experience", label: "Experience" },
   { href: "#skills", label: "Skills" },
-  { href: "#projects", label: "Work" },
-  { href: "#education", label: "Study" },
+  { href: "#projects", label: "Projects" },
+  { href: "#education", label: "Education" },
   { href: "#contact", label: "Contact" },
 ];
 

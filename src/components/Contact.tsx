@@ -12,7 +12,7 @@ export default function Contact() {
         transition={{ duration: 0.7 }}
         className="section-inner"
       >
-        <p className="mb-6 font-mono text-[11px] uppercase text-[#596e18]">04 / Start a conversation</p>
+        <p className="mb-6 font-mono text-[11px] uppercase text-[#596e18]">05 / Start a conversation</p>
         <h2 className="max-w-4xl font-display text-5xl font-semibold leading-[1.02] sm:text-7xl">
           <ScrollType text="Let's make something " />
           <em className="text-[#e56b55] not-italic">
